@@ -56,12 +56,16 @@ Dessin d'épicycloïdes avec paramètres modulables - python, POO
 
 Interraction entre Excel, base de données via odbc, VBA
 
+Librairie basée sur des wrappers (décorateurs) pour logger / timer 
+
 IAs faites sans libairie d'intelligence artificielle uniquement avec math, numpy...
 Celles-ci sont majoritairement non fonctionelles souvent à cause d'overfitting dû au manque de données sur les cas faits.
 La meilleure conçu était une IA de conversion de binaire en décimal qui avait 100% de précision car l'overfitting n'est pas négatif dans ce cas là
 
 IA faites avec tensorflow, Keras
 Site permettant de reconnaitre les chiffres dessinés (mnist dataset, Flask, Python)
+
+IAs sur kaggle
 
 
 
